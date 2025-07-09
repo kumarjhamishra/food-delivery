@@ -1,0 +1,9 @@
+/admin/node_modules
+/admin/public
+/admin/.gitignore
+
+/backend/node_modules
+/backend/.env
+
+/frontend/node_modules
+/frontend/.gitignore
